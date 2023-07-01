@@ -93,3 +93,9 @@
     </footer>
 </body>
 </html>
+*********************styles**********************
+body {
+    background-image: url("netflx_back.png");
+    background-size: cover;
+}
+
